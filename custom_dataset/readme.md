@@ -29,8 +29,8 @@ Each class has 100 sample images, and images belonging to the same class are pla
 the same directory. All these class directories are then in the same root
 `image` directory. 
 
-Our goal is to generate two files, `mydata_train.rec` for
-training and `mydata_val.rec` for validation, with a 70-30 split between these two sets. To do this, we first need to prepare "list" files.
+Our goal is to generate two files, `fmd_train.rec` for
+training and `fmd_val.rec` for validation, with a 70-30 split between these two sets. To do this, we first need to prepare "list" files.
 
 ## Prepare list files
 
