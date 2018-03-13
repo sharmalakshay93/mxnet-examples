@@ -1,3 +1,5 @@
+#!/bin/bash
+
 wget https://people.csail.mit.edu/celiu/CVPR2010/FMD/FMD.zip
 unzip FMD.zip
 m="/Users/slakshay/anaconda3/lib/python3.6/site-packages/mxnet"
