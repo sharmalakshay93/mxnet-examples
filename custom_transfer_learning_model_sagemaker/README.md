@@ -1,0 +1,3 @@
+The `.ipynb` notebook here demonstrates how to leverage transfer learning to use your own image dataset to build and train an image classification model using MXNet and Amazon SageMaker. 
+
+We use, as an example, the creation of a trash classification model which, given some image, classifies it into one of three classes: Compost, Landfill, Recycle. This is based on the [Show Before You Throw](https://www.youtube.com/watch?v=Ut1VGG6TOOw) project from an AWS DeepLens hackathon.
